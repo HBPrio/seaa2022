@@ -6,11 +6,15 @@ This repository is a complementary page for the publication "Investigating the A
 ## Experiment Results
 
 ### RQ1: Effectiveness
-
-![APFDs_BoxPlot](https://github.com/ViniciusSiqueira54/seaa2022/blob/main/images/APFDs_BoxPlot.PNG?raw=true)
-![APFDs_KW-RankSumTest](https://github.com/ViniciusSiqueira54/seaa2022/blob/main/images/APFDs_KW-RankSumTest.PNG?raw=true)
+<br/><br/>
+<img src="https://github.com/ViniciusSiqueira54/seaa2022/blob/main/images/APFDs_BoxPlot.PNG" width="700">
+<br/><br/>
+<img src="https://github.com/ViniciusSiqueira54/seaa2022/blob/main/images/APFDs_KW-RankSumTest.PNG" width="600">
+<br/><br/>
 
 ### RQ2: Efficiency
-
-![PrioTimes_BoxPlot](https://github.com/ViniciusSiqueira54/seaa2022/blob/main/images/PrioTimes_BoxPlot.PNG?raw=true)
-![PrioTimes_KW-RankSumTest](https://github.com/ViniciusSiqueira54/seaa2022/blob/main/images/PrioTimes_KW-RankSumTest.PNG?raw=true)
+<br/><br/>
+<img src="https://github.com/ViniciusSiqueira54/seaa2022/blob/main/images/PrioTimes_BoxPlot.PNG" width="700">
+<br/><br/>
+<img src="https://github.com/ViniciusSiqueira54/seaa2022/blob/main/images/PrioTimes_KW-RankSumTest.PNG" width="600">
+<br/><br/>
